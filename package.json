@@ -1,0 +1,19 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Practice Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s546328100/whoami.git"
+  },
+  "author": "dsc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s546328100/whoami/issues"
+  },
+  "homepage": "https://github.com/s546328100/whoami#readme"
+}
